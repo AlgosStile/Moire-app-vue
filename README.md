@@ -3,6 +3,8 @@
 
 Приложение написанно с использованием Vue, VueX, Vue-Router, Javascript.
 
+Ссылка на сайт: https://algosstile.github.io/Moire-vue/#/
+
 ## Установка и запуск проекта:
 
 1. npm install
