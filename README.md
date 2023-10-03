@@ -2,6 +2,8 @@
 
 Ссылка на сайт: https://algosstile.github.io/Moire-vue/#/
 
+![alt text](https://github.com/AlgosStile/Moire-app-vue/blob/main/screen/github-io-Moire-vue.png)
+
 #### !!! Для нормальной работы проекта запускать нужно в браузере Google !!! 
 
 ## Установка и запуск проекта:
